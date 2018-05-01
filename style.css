@@ -1,0 +1,8 @@
+/* font-family: 'Lato', sans-serif; logo & headings
+font-family: 'Roboto', sans-serif; text */
+.page-footer a{
+    margin: 0.5em !important;
+}
+h2{
+    margin: 1.5em !important;
+}
